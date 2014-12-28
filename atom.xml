@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title></title>
+ <link href="http://www.katsumiyokota.com/atom.xml" rel="self"/>
+ <link href="http://www.katsumiyokota.com/"/>
+ <updated>2014-12-27T15:52:22-10:00</updated>
+ <id>http://www.katsumiyokota.com</id>
+ <author>
+   <name>katsumiyokota</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
